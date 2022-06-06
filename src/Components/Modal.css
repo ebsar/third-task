@@ -7,6 +7,16 @@
   align-items: center;
   border-radius: 6px;
   z-index: 10;
+  flex-wrap: wrap;
+}@media(max-width:1000px){
+  .backrground-container{
+    width:47% !important;
+  }
+}
+@media (max-width:600px) {
+  .backrground-container{
+    width:100% !important;
+  }
 }
 .Container {
   width: 500px;

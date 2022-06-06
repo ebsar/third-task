@@ -1,5 +1,6 @@
 .Modal2-Container {
   padding-top: 40px;
+  flex-wrap: wrap;
 }
 .Text-1,
 .Text-2,
@@ -30,5 +31,4 @@
 }
 .text-4-1 {
   display: flex;
-  justify-content: space-between;
 }
