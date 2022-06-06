@@ -9,12 +9,12 @@
   z-index: 10;
   flex-wrap: wrap;
 }@media(max-width:1000px){
-  .backrground-container{
+  .Container{
     width:47% !important;
   }
 }
 @media (max-width:600px) {
-  .backrground-container{
+  .Container{
     width:100% !important;
   }
 }
